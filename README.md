@@ -1,8 +1,7 @@
-## Olá! Eu meu chamo Nicholas Costa 👋
+## Olá! Eu me chamo Nicholas Costa 👋
 
-- 🌱 Atualmente estudando HTML5, CSS3 e JavaScript
+- 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
 - 📫 Por onde me contatar: kkjeonick@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
