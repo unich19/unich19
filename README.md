@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Nicholas Costa 👋
 
 - 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
-- 📫 Por onde me contatar: kkjeonick@gmail.com
+- 📫 Por onde me contatar: nicholascostadossantos22@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
