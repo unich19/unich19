@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Nicholas Costa, tenho 17 anos e curso o Ensino Médio Técnico em Informática na EEEP L. H. Vieira. Sou desenvolvedor Frontend focado em React e JavaScript, com experiência em projetos colaborativos e integração com APIs.  
+Me chamo Nicholas Costa, tenho 17 anos e curso o Ensino Médio Técnico em Informática na EEEP L. H. V. Ribeiro. Sou desenvolvedor Frontend focado em React e JavaScript, com experiência em projetos colaborativos e integração com APIs.  
 Atualmente, busco consolidar minha base técnica para ingressar em Análise e Desenvolvimento de Sistemas, com planos futuros para Engenharia de Software. Sou movido pela prática e pelo aprendizado contínuo em tecnologias modernas e computação em nuvem.
 
 ---
